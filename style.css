@@ -1,0 +1,109 @@
+*
+{
+	margin:0;
+	padding:0;
+}
+
+.webgl
+{
+	position:fixed;
+	top:0;
+	left:0;
+	outline:none;
+}
+
+body::-webkit-scrollbar{
+    display: none;
+}
+
+.AfrikaH1{
+    text-align: center;
+    
+
+    margin-top: 85vh ;
+	margin-bottom: 0%;
+	margin-left: 0%;
+	margin-right: 0%;
+
+    position: relative;
+
+    font-family: 'Cabin', sans-serif;
+    color: #ffeded;
+    font-size: 7vmin;
+}
+
+.AfrikaP{
+    text-align: center;
+
+    margin-top: 2%;
+	margin-left: 0%;
+    margin-bottom: 85vh;
+
+    position: relative;
+    font-family: 'Cabin', sans-serif;
+    color: #ffeded;
+    font-size: 3vmin;
+}
+
+.EuropeH1{
+    text-align: center;
+    
+
+    margin-top: 85vh ;
+	margin-bottom: 0%;
+	margin-left: 0%;
+	margin-right: 0%;
+
+    position: relative;
+
+    font-family: 'Cabin', sans-serif;
+    color: #ffeded;
+    font-size: 7vmin;
+}
+
+.EuropeP{
+    text-align: center;
+
+    margin-top: 2%;
+	margin-left: 0%;
+    margin-bottom: 850vh;
+
+    position: relative;
+    font-family: 'Cabin', sans-serif;
+    color: #ffeded;
+    font-size: 3vmin;
+}
+
+h1
+{ 
+	text-align: center;
+    
+
+    margin-top: 100vh;
+    margin-bottom: 0vh;
+	margin-left: 0vh;
+	margin-right: 0vh;
+
+    position: relative;
+
+    font-family: 'Cabin', sans-serif;
+    color: #ffeded;
+    font-size: 7vmin;
+}
+
+p
+{
+    text-align: center;
+
+    margin-top: 4vh;
+	margin-left: 0vh;
+    margin-bottom:0vh;
+
+    position: relative;
+    font-family: 'Cabin', sans-serif;
+    color: #ffeded;
+    font-size: 3vmin;	
+  
+}
+
+
